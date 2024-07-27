@@ -21,6 +21,7 @@ body > .container {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  font-family: 'Arial, Helvetica, sans-serif';
 }
 
 body > .container > #container-header > #container-header-nav nav a {
