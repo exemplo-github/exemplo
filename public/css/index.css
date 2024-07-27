@@ -45,7 +45,7 @@ body > .container > #container-header > #container-header-nav nav a:hover {
   padding: 12px;
   background-color: #252525;
   border-radius: 8px;
-  color: #000;
+  color: #fff;
   text-decoration: underline;
   transition: all .6s;
   transform: scale(1);
